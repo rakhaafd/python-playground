@@ -8,7 +8,7 @@ def get_root(a,b,c):
   r2 = (-b - (b ** 2 - 4 * a * c) ** 0.5) / (2 * a)
   return r1,r2
 
-result1, result2 = get_root(a=1,c=-8,b=2)
+result1, result2 = get_root(a=1,c=-8,b=2) # sama saja dengan (1, 2, -8)
 print('Hasil akar-akarnya adalah', result1, 'atau', result2)
 
 #output

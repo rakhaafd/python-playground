@@ -1,0 +1,1 @@
+instance variable biasanya ditaruh di dalam method seperti constructor, sedangkan class variable di taruh di dalam class, namun diluar method.

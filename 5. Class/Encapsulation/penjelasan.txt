@@ -1,0 +1,1 @@
+Jika kita ingin menjadikan anggota class yaitu method dan attribute menjadi private, maka kita harus mengawalinya dengan garis bawah ganda atau double underscore __.

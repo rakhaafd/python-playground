@@ -1,0 +1,5 @@
+ Thread adalah entitas dalam proses yang dapat dijadwalkan untuk dieksekusi. Thread juga adalah unit pemrosesan terkecil yang dapat dilakukan dalam Sistem Operasi (Operating System).
+
+Dengan kata lain, sebuah thread adalah urutan instruksi semacam itu di dalam program yang dapat dieksekusi secara independen dari kode lain. Untuk kesederhanaan, Anda dapat mengasumsikan bahwa sebuah thread adalah bagian dari suatu proses.
+
+Multithreading didefinisikan sebagai kemampuan prosesor untuk mengeksekusi beberapa thread secara bersamaan.

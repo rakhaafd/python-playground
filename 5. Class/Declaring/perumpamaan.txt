@@ -1,0 +1,14 @@
+Cetakan/Desain Robot:
+
+class Cat adalah desain robot yang kita buat.
+Dalam desain, kita tambahkan fitur "bersuara".
+Robot Nyata:
+
+nobi = Cat() adalah salah satu robot yang kita buat berdasarkan desain.
+Robot ini sudah bisa bersuara.
+Mengaktifkan Fitur Robot:
+
+Saat kita memanggil nobi.meow(), kita menekan tombol untuk membuat robot berbunyi. Robot berbunyi AWOOOOO.
+
+
+kenapa di def meow(s) memerlukan parameter? Jadi, saat kamu memanggil nobi.meow(), Python secara otomatis mengirimkan instance nobi sebagai parameter pertama ke method meow.

@@ -1,0 +1,5 @@
+Perbedaan antara threading dan multiprocessing:
+
+Threading: Berbagi memori yang sama antara thread, cocok untuk tugas yang tidak terlalu berat.
+
+Multiprocessing: Setiap proses berjalan secara independen, dengan memori terpisah, cocok untuk tugas yang membutuhkan lebih banyak daya komputasi atau isolasi antar proses.

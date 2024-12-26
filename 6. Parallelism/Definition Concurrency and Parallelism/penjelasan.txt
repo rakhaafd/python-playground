@@ -1,0 +1,6 @@
+Concurrency kemudian sering dipahami sebagai "mengelola" banyak pekerjaan secara bersamaan. Pada kenyataannya, pekerjaan-pekerjaan itu tidak benar-benar dijalankan pada saat yang bersamaan. Mereka bergantian secara Parallelism, berarti mengeksekusi beberapa pekerjaan secara bersamaan atau secara paralel. Parallelism memungkinkan untuk memanfaatkan banyak core pada satu mesin.
+
+Untuk menerapkan kedua konsep tersebut dalam Python, kita bisa menggunakan library:
+
+multiprocess untuk parallelism dan,
+threading untuk concurrency

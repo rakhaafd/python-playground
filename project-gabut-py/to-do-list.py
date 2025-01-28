@@ -1,8 +1,8 @@
 kegiatan = []
+print('\nSelamat Datang di To-Do-List 📝')
+print('=============================')
 while True:
-    print('\nSelamat Datang di To-Do-List 📝')
-    print('=============================\n')
-    print('1. Lihat Kegiatan Saat Ini\n2. Tambah Kegiatan\n3. Hapus Kegiatan\n4. Keluar\n')
+    print('\n1. Lihat Kegiatan Saat Ini\n2. Tambah Kegiatan\n3. Hapus Kegiatan\n4. Keluar\n')
     input_user = int(input('Masukkan Pilihan Anda (Hanya Angka): '))
     print()
 
